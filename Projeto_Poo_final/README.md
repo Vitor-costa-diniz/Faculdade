@@ -23,7 +23,7 @@ Um projeto flutter, como trabalho final da Cadeira de POO, é basicamente um ser
 * Se todo os passos foram seguidos corretamente a aplicação deve estar funcionando.
 
 ### Observações
- * Essa foi minha primeira experencia de fato com o flutter, depois de 2 meses de estudo, o que é quase nada
+ * Essa foi minha primeira experencia de fato com o flutter, depois de 2 meses de estudo, o que é quase nada.
  * A parte da aplicação Mobile foi feita inteiramente em uma semana, então o projeto não está "polido" do jeito que deveria estar, por exemplo: O arquivo possui muitos prints, pois estava usando eles para saber as respostas que estava recebendo da api, e também o fato que na página do filme a fonte veio com bugs, e o fato que não está responsivo, se o nome da pessoa for muito grande acontece um bug que quebra o layout da página.
  * O arquivo do projeto está uma bagunça, com arquivos de mais de 300 linhas, isso acaba ficando muito confuso.
  * A barra de pesquisa não funciona, e apresenta um erro que não permite que ela mostre todo o texto.
