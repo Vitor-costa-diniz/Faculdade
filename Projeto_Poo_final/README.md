@@ -12,7 +12,7 @@ Um projeto flutter, como trabalho final da Cadeira de POO, é basicamente um ser
 
 ## Getting Started
 
-* Clone o projeto dentro de uma pasta no seu Desktop, em seguida cria o banco de dados "movie-db" no PostgreSql, vá até a pasta do projeto java, e no arquivo "api-rest-discipline-poo/scr/main/java/resources/application.yml",  altere o nome do username e password lá presentes para que eles sejam as mesmas do seu PostgresSQL, rode a aplicação java e abra no seu navegador o site "http://localhost:8080/swagger-ui.html" para ver os ENDPOINTS da sua aplicação. 
+* Clone o projeto dentro de uma pasta no seu Desktop, em seguida cria o banco de dados "movie-db" no PostgreSql, vá até a pasta do projeto java, e no arquivo "API-REST_Java/scr/main/java/resources/application.yml",  altere o nome do username e password lá presentes para que eles sejam as mesmas do seu PostgresSQL, rode a aplicação java e abra no seu navegador o site "http://localhost:8080/swagger-ui.html" para ver os ENDPOINTS da sua aplicação. 
 
 * Abra o terminal na sua maquina e rode o comando "ipconfig" e pegue o endereço do IPV4.
 
