@@ -1,0 +1,14 @@
+#Projeto Final da Disciplina de Laboratorio de Programação, LBP ##
+#O LBP (Local Binary Patterns) ́e um algoritmo que pode ser aplicado para discriminar diferentes texturas em imagens ##
+############################# Makefile ##########################
+all: pj
+pj: pj.o main.o
+	gcc -o pj pj.o main.o
+pj.o: pj.c
+	gcc -o pj.o -c pj.c
+main.o: main.c pj.h
+	gcc -o main.o -c main.c
+clean:
+	rm -rf *.o
+mrproper: clean
+	rm -rf pj

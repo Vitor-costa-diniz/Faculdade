@@ -1,0 +1,1 @@
+// Escreva um programa em C que gere um vetor com n ́umeros aleat ́orios e calcule sua m ́edia. Organize uma Estrutura com as seguintes informa ̧c ̃oes: ponteiro para a matriz, quantidade de elementos e a m ́edia.

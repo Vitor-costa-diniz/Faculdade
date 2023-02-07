@@ -1,0 +1,30 @@
+{
+    "movies":[
+        {
+            "id":"m1",
+            "name": "Computador do mal",
+            "genre":"Terror",
+            "image":"https://picsum.photos/250?image=9",
+            "synopsis":"Um tomatate de uma cidade pacífica se revolta pela desperdício de tomates na cidades, então pelo poder e vontade de vingaçã dos tomates ele decide se vingar dos humaanos",
+            "releaseDateOf":"08/12/2022",
+            "atores":[
+                {
+                    "id":"p1",
+                    "name":"Rubert",
+                    "function":"Ator"
+                },
+                {
+                    "id":"p2",
+                    "name":"Ruan",
+                    "function":"Diretor"                    
+                }
+            ],
+            "genreLanguage":[
+                {
+                    "id":"g1",
+                    "language":"Português"
+                }
+            ]
+        }
+    ]
+}
