@@ -16,7 +16,7 @@ Um projeto flutter, como trabalho final da Cadeira de POO, é basicamente um ser
 
 * Abra o terminal na sua maquina e rode o comando "ipconfig" e pegue o endereço do IPV4.
 
-* Em seguida, abra o Vscode, ou Android Studio na pasta em que a apicação "movies" está, e vá ate o arquivo "lib/home.dart, e nas variáveis apiUrl coloque o caminho para os metodos de GET presentes no swagger, o caminho para acessar os filmes deve ficar parecido com esse: "http://(Endereço IPV4 da sua máquina):8080/api/movies?offset=0&limit=15&sort=ASC".
+* Em seguida, abra o Vscode, ou Android Studio na pasta em que a aplicação "movies" está, e vá ate o arquivo "lib/home.dart, e nas variáveis apiUrl coloque o caminho para os metodos de GET presentes no swagger, o caminho para acessar os filmes deve ficar parecido com esse: "http://(Endereço IPV4 da sua máquina):8080/api/movies?offset=0&limit=15&sort=ASC".
 
 * Rode a aplicação no emulador de sua preferência, vá ate o arquivo "libs/login_page.dart" e na linha 151 coloque o email e senha que deseja usar para acessar a aplicação.
 
