@@ -30,4 +30,4 @@ Um projeto flutter, como trabalho final da Cadeira de POO, é basicamente um ser
  * Não existe o login, é apenas uma condicional que so permite que um usuário e senha sejam validados por vez kkkkk, então não é muito bem um login.
  * Não existe um método para cadastrar um filme usando o aplicativo mesmo, esse processo é todo feito pelo swagger.
 
- #### Sinta-se livre pra clonar o projeto, e caso vc tenha mais tempo que uma semana tente corrigir os erros presente no projeto, Boa sorte <3.
+ #### Sinta-se livre pra clonar o projeto, e caso vc tenha mais tempo que uma semana tente corrigir os erros presentes no projeto, Boa sorte <3.
