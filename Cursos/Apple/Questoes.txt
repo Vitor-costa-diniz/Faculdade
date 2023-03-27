@@ -1,4 +1,0 @@
-1. Diferença entre frames e bounds ?
-
-Cocoapods é o gerenciador de de-
-pendências do ios.
