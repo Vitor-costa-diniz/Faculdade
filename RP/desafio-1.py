@@ -19,7 +19,6 @@ print(f"Dados de treino: {X_train.shape[0]} amostras")
 print(f"Dados de teste: {X_test.shape[0]} amostras")
 
 # 3. Configurando e treinando o XGBRegressor
-
 xgb_model = XGBRegressor(
     objective='reg:squarederror',
     n_estimators=100,
@@ -34,7 +33,6 @@ xgb_model.fit(X_train, y_train)
 y_pred = xgb_model.predict(X_test)
 
 # 5. Calcular métricas de avaliação
-
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
 mae = mean_absolute_error(y_test, y_pred)
